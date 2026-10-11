@@ -1,0 +1,36 @@
+Skill Set Go EduTech - Frequently Asked Questions
+
+What is Skill Set Go EduTech?
+Skill Set Go EduTech is an education and career-development platform that helps
+students and aspiring professionals bridge the gap between academic learning and
+industry requirements. It offers structured internship and skill-development
+programs across domains like AI/ML, Data Science, Web Development, and more.
+
+What is the AI/ML track?
+The AI/ML track is a 4-week practical learning program that takes learners from
+Python and data fundamentals through deep learning with PyTorch and TensorFlow,
+generative AI, prompt engineering, and finally building AI agent systems with
+LangChain and LangGraph.
+
+How many tasks are in the AI/ML track?
+There are 16 core tasks spread across 4 weeks, plus 1 capstone project in Week 4,
+for a total of 17 deliverables.
+
+What is the submission standard?
+All submissions must be original, clearly documented, and include the required
+evidence type, such as source files, repository links, screenshots, written
+reports, or demo videos.
+
+What is the learning cycle?
+The learning cycle has four steps: Learn (study assigned concepts), Build (complete
+practical work), Submit (provide task evidence), and Review (revise from feedback).
+
+What is the capstone project?
+The capstone project is an AI agent system that integrates retrieval-augmented
+generation (RAG), tool use, and multi-step reasoning, delivered as a GitHub repo,
+a live demo, a written report, and presentation slides.
+
+What other domains does Skill Set Go EduTech cover?
+Beyond AI/ML, the platform covers Data Science & Analytics, Python Development,
+Web Development, App Development, Cybersecurity, Cloud & DevOps, UI/UX Design,
+Blockchain & Web3, Digital Marketing & SEO, and Financial Engineering.
