@@ -5,3 +5,9 @@ __pycache__/
 .env
 faiss_index/
 .ipynb_checkpoints/
+venv312/ venv/ .venv/ __pycache__/ .env faiss_index/
+venv/
+venv312/
+.env
+__pycache__/
+faiss_index/

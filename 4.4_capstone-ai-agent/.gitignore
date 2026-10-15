@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+faiss_index/
+.ipynb_checkpoints/
+venv312/ venv/ .venv/ __pycache__/ .env faiss_index/
+.env
+venv/
+venv312/
+__pycache__/
+faiss_index/
